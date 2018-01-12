@@ -1,5 +1,12 @@
 # Compiled class file
 *.class
+#Aditional class for java
+deployL.sh
+target
+.settings
+.classpath
+.project
+.springBeans
 
 # Log file
 *.log
